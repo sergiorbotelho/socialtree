@@ -30,7 +30,7 @@ body {
   background-size: top center;
   background-size: cover;
   color: var(--text-color);
-  height: 100vh;
+  height: 100%;
 }
 
 .container {
